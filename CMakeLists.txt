@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.13 FATAL_ERROR)
 
 project(asr-onnx)
 
-set(ROPET_ASR_VERSION "1.10.46")
+set(SHERPA_ONNX_VERSION "1.10.46")
 
 option(BUILD_SHARED_LIBS "Whether to build shared libraries" OFF)
 option(SHERPA_ONNX_USE_PRE_INSTALLED_ONNXRUNTIME_IF_AVAILABLE "True to use pre-installed onnxruntime if available" ON)
@@ -33,7 +33,7 @@ if(BUILD_SHARED_LIBS)
   set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 endif()
 
-set(CMAKE_CXX_STANDARD 17 CACHE STRING "The C++ version to be used.")
+set(CMAKE_CXX_STANDARD 17 CACHE STRING "The C++ version to be used.") # modify the C++ version according to your development environment
 set(CMAKE_CXX_EXTENSIONS OFF)
 message(STATUS "C++ Standard version: ${CMAKE_CXX_STANDARD}")
 
