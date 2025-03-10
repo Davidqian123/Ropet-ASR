@@ -1,6 +1,6 @@
 // asr-onnx/csrc/wave-writer.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/wave-writer.h"
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/provider-config.cc
 //
-// Copyright (c)  2024  Uniphore (Author: Manickavela)
+ 
 
 #include "asr-onnx/csrc/provider-config.h"
 

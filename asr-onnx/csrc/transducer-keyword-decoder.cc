@@ -1,6 +1,6 @@
 // asr-onnx/csrc/transducer-keywords-decoder.cc
 //
-// Copyright (c)  2023-2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/transducer-keyword-decoder.h"
 

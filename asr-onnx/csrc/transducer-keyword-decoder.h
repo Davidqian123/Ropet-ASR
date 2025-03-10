@@ -1,6 +1,6 @@
 // asr-onnx/csrc/transducer-keywords-decoder.h
 //
-// Copyright (c)  2023-2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_TRANSDUCER_KEYWORD_DECODER_H_
 #define SHERPA_ONNX_CSRC_TRANSDUCER_KEYWORD_DECODER_H_

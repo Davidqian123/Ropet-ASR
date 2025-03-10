@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-speaker-diarization-pyannote-impl.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_SPEAKER_DIARIZATION_PYANNOTE_IMPL_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_SPEAKER_DIARIZATION_PYANNOTE_IMPL_H_
 

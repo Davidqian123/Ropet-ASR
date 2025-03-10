@@ -1,6 +1,6 @@
 // asr-onnx/csrc/vad-model.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/vad-model.h"
 

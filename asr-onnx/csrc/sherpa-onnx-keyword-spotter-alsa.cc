@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-keyword-spotter-alsa.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 #include <signal.h>
 #include <stdio.h>
 #include <stdlib.h>

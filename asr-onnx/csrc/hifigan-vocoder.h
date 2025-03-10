@@ -1,6 +1,6 @@
 // asr-onnx/csrc/hifigan-vocoder.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_HIFIGAN_VOCODER_H_
 #define SHERPA_ONNX_CSRC_HIFIGAN_VOCODER_H_

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/wave-reader.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_WAVE_READER_H_
 #define SHERPA_ONNX_CSRC_WAVE_READER_H_

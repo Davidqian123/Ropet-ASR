@@ -1,6 +1,6 @@
 // asr-onnx/csrc/speaker-embedding-extractor.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/speaker-embedding-extractor.h"
 

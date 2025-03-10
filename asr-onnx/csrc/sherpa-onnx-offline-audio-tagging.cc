@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-offline-audio-tagging.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 #include <stdio.h>
 
 #include "asr-onnx/csrc/audio-tagging.h"

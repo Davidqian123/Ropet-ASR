@@ -1,6 +1,6 @@
 // asr-onnx/csrc/lexicon.h
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_LEXICON_H_
 #define SHERPA_ONNX_CSRC_LEXICON_H_

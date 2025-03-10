@@ -1,6 +1,6 @@
 // asr-onnx/csrc/voice-activity-detector.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/voice-activity-detector.h"
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/keyword-spotter-impl.h
 //
-// Copyright (c)  2023-2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_KEYWORD_SPOTTER_IMPL_H_
 #define SHERPA_ONNX_CSRC_KEYWORD_SPOTTER_IMPL_H_

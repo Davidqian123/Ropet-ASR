@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-punctuation-model-config.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-punctuation-model-config.h"
 

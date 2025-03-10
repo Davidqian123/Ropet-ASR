@@ -1,6 +1,6 @@
 // asr-onnx/csrc/context-graph.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/context-graph.h"
 

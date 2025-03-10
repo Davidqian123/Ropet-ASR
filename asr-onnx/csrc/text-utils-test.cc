@@ -1,6 +1,6 @@
 // asr-onnx/csrc/text-utils-test.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/text-utils.h"
 

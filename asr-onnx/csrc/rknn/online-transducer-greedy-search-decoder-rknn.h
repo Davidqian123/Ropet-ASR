@@ -1,6 +1,6 @@
 // asr-onnx/csrc/rknn/online-transducer-greedy-search-decoder-rknn.h
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_RKNN_ONLINE_TRANSDUCER_GREEDY_SEARCH_DECODER_RKNN_H_
 #define SHERPA_ONNX_CSRC_RKNN_ONLINE_TRANSDUCER_GREEDY_SEARCH_DECODER_RKNN_H_

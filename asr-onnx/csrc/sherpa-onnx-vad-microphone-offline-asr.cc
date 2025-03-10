@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-vad-microphone-offline-asr.cc
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #include <signal.h>
 #include <stdio.h>

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/symbol-table.h
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_SYMBOL_TABLE_H_
 #define SHERPA_ONNX_CSRC_SYMBOL_TABLE_H_

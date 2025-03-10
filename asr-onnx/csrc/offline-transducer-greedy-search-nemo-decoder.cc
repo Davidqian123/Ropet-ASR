@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-transducer-greedy-search-nemo-decoder.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-transducer-greedy-search-nemo-decoder.h"
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/keyword-spotter-impl.cc
 //
-// Copyright (c)  2023-2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/keyword-spotter-impl.h"
 

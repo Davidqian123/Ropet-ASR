@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-speaker-diarization.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-speaker-diarization.h"
 

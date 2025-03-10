@@ -1,6 +1,6 @@
 // asr-onnx/csrc/speaker-embedding-manager-test.cc
 //
-// Copyright (c) 2024 Jingzhao Ou (jingzhao.ou@gmail.com)
+ 
 
 #include "asr-onnx/csrc/speaker-embedding-manager.h"
 

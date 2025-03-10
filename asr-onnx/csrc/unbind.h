@@ -1,6 +1,6 @@
 // asr-onnx/csrc/unbind.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_UNBIND_H_
 #define SHERPA_ONNX_CSRC_UNBIND_H_
 

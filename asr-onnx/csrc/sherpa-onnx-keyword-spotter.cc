@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-keyword-spotter.cc
 //
-// Copyright (c)  2023-2024  Xiaomi Corporation
+ 
 
 #include <stdio.h>
 

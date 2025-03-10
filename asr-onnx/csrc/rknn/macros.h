@@ -1,6 +1,6 @@
 // asr-onnx/csrc/macros.h
 //
-// Copyright      2025  Xiaomi Corporation
+  
 
 #ifndef SHERPA_ONNX_CSRC_RKNN_MACROS_H_
 #define SHERPA_ONNX_CSRC_RKNN_MACROS_H_

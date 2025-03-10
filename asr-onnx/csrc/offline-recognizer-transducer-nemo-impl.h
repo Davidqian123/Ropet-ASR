@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-recognizer-transducer-nemo-impl.h
 //
-// Copyright (c)  2022-2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_RECOGNIZER_TRANSDUCER_NEMO_IMPL_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_RECOGNIZER_TRANSDUCER_NEMO_IMPL_H_

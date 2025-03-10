@@ -1,6 +1,6 @@
 // asr-onnx/csrc/context-graph.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_CONTEXT_GRAPH_H_
 #define SHERPA_ONNX_CSRC_CONTEXT_GRAPH_H_

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/fst-utils.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_FST_UTILS_H_
 #define SHERPA_ONNX_CSRC_FST_UTILS_H_

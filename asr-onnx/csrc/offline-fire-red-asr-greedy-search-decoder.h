@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-fire-red-asr-greedy-search-decoder.h
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_FIRE_RED_ASR_GREEDY_SEARCH_DECODER_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_FIRE_RED_ASR_GREEDY_SEARCH_DECODER_H_

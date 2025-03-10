@@ -1,6 +1,6 @@
 // asr-onnx/csrc/rknn/online-transducer-modified-beam-search-decoder-rknn.h
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_RKNN_ONLINE_TRANSDUCER_MODIFIED_BEAM_SEARCH_DECODER_RKNN_H_
 #define SHERPA_ONNX_CSRC_RKNN_ONLINE_TRANSDUCER_MODIFIED_BEAM_SEARCH_DECODER_RKNN_H_

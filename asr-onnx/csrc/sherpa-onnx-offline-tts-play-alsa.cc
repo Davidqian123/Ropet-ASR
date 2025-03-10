@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-tts-play-alsa.cc
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 // see https://www.alsa-project.org/alsa-doc/alsa-lib/group___p_c_m.html
 // https://www.alsa-project.org/alsa-doc/alsa-lib/group___p_c_m___h_w___params.html

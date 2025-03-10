@@ -1,7 +1,6 @@
 // asr-onnx/csrc/endpoint.h
 //
-// Copyright (c)  2022  (authors: Pingfeng Luo)
-//                2022-2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_ENDPOINT_H_
 #define SHERPA_ONNX_CSRC_ENDPOINT_H_

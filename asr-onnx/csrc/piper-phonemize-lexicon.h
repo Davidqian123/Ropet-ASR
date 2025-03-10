@@ -1,6 +1,6 @@
 // asr-onnx/csrc/piper-phonemize-lexicon.h
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_PIPER_PHONEMIZE_LEXICON_H_
 #define SHERPA_ONNX_CSRC_PIPER_PHONEMIZE_LEXICON_H_

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/stack-test.cc
 //
-// Copyright (c) 2023 Jingzhao Ou (jingzhao.ou@gmail.com)
+    
 
 #include "asr-onnx/csrc/stack.h"
 

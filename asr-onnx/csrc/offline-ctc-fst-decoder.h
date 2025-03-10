@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-ctc-fst-decoder.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_CTC_FST_DECODER_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_CTC_FST_DECODER_H_

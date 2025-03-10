@@ -1,6 +1,6 @@
 // asr-onnx/csrc/kokoro-multi-lang-lexicon.h
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_KOKORO_MULTI_LANG_LEXICON_H_
 #define SHERPA_ONNX_CSRC_KOKORO_MULTI_LANG_LEXICON_H_

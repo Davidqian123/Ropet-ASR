@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-offline-tts.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include <chrono>  // NOLINT
 #include <fstream>

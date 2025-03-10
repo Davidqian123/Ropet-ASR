@@ -1,11 +1,5 @@
 // asr-onnx/csrc/parse-options.cc
-/**
- * Copyright 2009-2011  Karel Vesely;  Microsoft Corporation;
- *                      Saarland University (Author: Arnab Ghoshal);
- * Copyright 2012-2013  Johns Hopkins University (Author: Daniel Povey);
- *                      Frantisek Skala;  Arnab Ghoshal
- * Copyright 2013       Tanel Alumae
- */
+  
 
 // This file is copied and modified from kaldi/src/util/parse-options.cu
 

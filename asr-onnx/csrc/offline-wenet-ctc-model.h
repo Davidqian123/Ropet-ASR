@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-wenet-ctc-model.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_WENET_CTC_MODEL_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_WENET_CTC_MODEL_H_
 #include <memory>

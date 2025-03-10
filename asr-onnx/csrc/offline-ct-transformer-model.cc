@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-ct-transformer-model.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-ct-transformer-model.h"
 

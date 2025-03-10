@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-offline-language-identification.cc
 //
-// Copyright (c)  2022-2024  Xiaomi Corporation
+ 
 
 #include <stdio.h>
 

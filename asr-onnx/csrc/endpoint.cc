@@ -1,7 +1,6 @@
 // asr-onnx/csrc/endpoint.cc
 //
-// Copyright (c)  2022  (authors: Pingfeng Luo)
-//                2022-2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/endpoint.h"
 

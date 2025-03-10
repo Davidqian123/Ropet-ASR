@@ -1,6 +1,6 @@
 // asr-onnx/csrc/parse-options.h
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 //
 // This file is copied and modified from kaldi/src/util/parse-options.h
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/cppjieba-test.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 #include <iostream>
 #include <regex>  // NOLINT
 #include <string>

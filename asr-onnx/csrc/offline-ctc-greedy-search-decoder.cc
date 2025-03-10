@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-ctc-greedy-search-decoder.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-ctc-greedy-search-decoder.h"
 

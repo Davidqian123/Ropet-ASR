@@ -1,6 +1,6 @@
 // asr-onnx/csrc/fast-clustering-config.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_FAST_CLUSTERING_CONFIG_H_
 #define SHERPA_ONNX_CSRC_FAST_CLUSTERING_CONFIG_H_

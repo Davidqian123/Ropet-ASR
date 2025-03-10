@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-paraformer-greedy-search-decoder.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-paraformer-greedy-search-decoder.h"
 

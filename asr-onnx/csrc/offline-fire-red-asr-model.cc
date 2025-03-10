@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-fire-red-asr-model.cc
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-fire-red-asr-model.h"
 

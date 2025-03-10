@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-vad-alsa.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include <signal.h>
 #include <stdio.h>

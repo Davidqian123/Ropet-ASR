@@ -1,6 +1,6 @@
 // asr-onnx/csrc/silero-vad-model.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/silero-vad-model.h"
 

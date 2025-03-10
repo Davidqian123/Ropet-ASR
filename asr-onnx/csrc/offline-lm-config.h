@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-lm-config.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_LM_CONFIG_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_LM_CONFIG_H_
 

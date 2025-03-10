@@ -1,7 +1,7 @@
 // asr-onnx/csrc/text-utils.h
 //
-// Copyright 2009-2011  Saarland University;  Microsoft Corporation
-// Copyright      2023  Xiaomi Corporation
+
+ 
 #ifndef SHERPA_ONNX_CSRC_TEXT_UTILS_H_
 #define SHERPA_ONNX_CSRC_TEXT_UTILS_H_
 #include <errno.h>

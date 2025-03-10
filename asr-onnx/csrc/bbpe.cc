@@ -1,6 +1,6 @@
 // asr-onnx/csrc/bbpe.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 // Auto-generated! DO NOT EDIT
 

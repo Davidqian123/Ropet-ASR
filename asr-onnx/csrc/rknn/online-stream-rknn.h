@@ -1,6 +1,6 @@
 // asr-onnx/csrc/rknn/online-stream-rknn.h
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_RKNN_ONLINE_STREAM_RKNN_H_
 #define SHERPA_ONNX_CSRC_RKNN_ONLINE_STREAM_RKNN_H_
 #include <memory>

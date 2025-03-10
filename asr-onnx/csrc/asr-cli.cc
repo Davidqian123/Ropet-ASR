@@ -1,6 +1,6 @@
 // asr-onnx/csrc/asr-cli.cc
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #include <stdio.h>
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/microphone.cc
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/microphone.h"
 

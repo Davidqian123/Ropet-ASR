@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-telespeech-ctc-model.cc
 //
-// Copyright (c)  2023-2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-telespeech-ctc-model.h"
 

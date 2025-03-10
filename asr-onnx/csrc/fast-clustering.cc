@@ -1,6 +1,6 @@
 // asr-onnx/csrc/fast-clustering.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/fast-clustering.h"
 

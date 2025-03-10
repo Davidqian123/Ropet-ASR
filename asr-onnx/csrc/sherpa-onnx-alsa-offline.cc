@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-alsa-offline.cc
 //
-// Copyright (c)  2022-2024  Xiaomi Corporation
+ 
 
 #include <signal.h>
 #include <stdio.h>

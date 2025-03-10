@@ -1,6 +1,6 @@
 // asr-onnx/csrc/rknn/online-zipformer-transducer-model-rknn.h
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_RKNN_ONLINE_ZIPFORMER_TRANSDUCER_MODEL_RKNN_H_
 #define SHERPA_ONNX_CSRC_RKNN_ONLINE_ZIPFORMER_TRANSDUCER_MODEL_RKNN_H_
 

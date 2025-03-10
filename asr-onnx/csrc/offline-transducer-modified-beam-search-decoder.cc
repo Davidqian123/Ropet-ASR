@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-transducer-modified-beam-search-decoder.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-transducer-modified-beam-search-decoder.h"
 

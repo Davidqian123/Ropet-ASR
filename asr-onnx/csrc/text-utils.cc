@@ -1,7 +1,7 @@
 // asr-onnx/csrc/text-utils.cc
 //
-// Copyright 2009-2011  Saarland University;  Microsoft Corporation
-// Copyright      2023  Xiaomi Corporation
+
+ 
 
 #include "asr-onnx/csrc/text-utils.h"
 

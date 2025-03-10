@@ -1,6 +1,5 @@
 /**
- * Copyright (c)  2022  Xiaomi Corporation (authors: Daniel Povey)
- * Copyright (c)  2023                     (Pingfeng Luo)
+ 
  *
  */
 // This file is copied from k2/csrc/utils.h

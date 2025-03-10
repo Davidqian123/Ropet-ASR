@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-recognizer-moonshine-impl.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_RECOGNIZER_MOONSHINE_IMPL_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_RECOGNIZER_MOONSHINE_IMPL_H_

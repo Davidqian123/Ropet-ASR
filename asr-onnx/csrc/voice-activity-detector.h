@@ -1,6 +1,6 @@
 // asr-onnx/csrc/voice-activity-detector.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_VOICE_ACTIVITY_DETECTOR_H_
 #define SHERPA_ONNX_CSRC_VOICE_ACTIVITY_DETECTOR_H_
 

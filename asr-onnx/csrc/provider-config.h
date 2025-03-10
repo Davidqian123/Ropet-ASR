@@ -1,6 +1,6 @@
 // asr-onnx/csrc/provider-config.h
 //
-// Copyright (c)  2024  Uniphore (Author: Manickavela)
+ 
 
 #ifndef SHERPA_ONNX_CSRC_PROVIDER_CONFIG_H_
 #define SHERPA_ONNX_CSRC_PROVIDER_CONFIG_H_

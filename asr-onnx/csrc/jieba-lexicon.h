@@ -1,6 +1,6 @@
 // asr-onnx/csrc/jieba-lexicon.h
 //
-// Copyright (c)  2022-2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_JIEBA_LEXICON_H_
 #define SHERPA_ONNX_CSRC_JIEBA_LEXICON_H_

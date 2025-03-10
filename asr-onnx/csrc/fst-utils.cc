@@ -1,6 +1,6 @@
 // asr-onnx/csrc/fst-utils.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/fst-utils.h"
 

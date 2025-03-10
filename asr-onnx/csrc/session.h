@@ -1,6 +1,6 @@
 // asr-onnx/csrc/session.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_SESSION_H_
 #define SHERPA_ONNX_CSRC_SESSION_H_

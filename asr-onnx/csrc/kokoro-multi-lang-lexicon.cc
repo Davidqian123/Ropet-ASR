@@ -1,6 +1,6 @@
 // asr-onnx/csrc/kokoro-multi-lang-lexicon.cc
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/kokoro-multi-lang-lexicon.h"
 

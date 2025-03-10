@@ -1,6 +1,6 @@
 // asr-onnx/csrc/audio-tagging-label-file.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/audio-tagging-label-file.h"
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/spoken-language-identification-impl.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_SPOKEN_LANGUAGE_IDENTIFICATION_IMPL_H_
 #define SHERPA_ONNX_CSRC_SPOKEN_LANGUAGE_IDENTIFICATION_IMPL_H_
 

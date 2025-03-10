@@ -1,6 +1,6 @@
 // asr-onnx/csrc/base64-decode.cc
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/base64-decode.h"
 

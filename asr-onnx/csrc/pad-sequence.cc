@@ -1,6 +1,6 @@
 // asr-onnx/csrc/pad-sequence.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/pad-sequence.h"
 

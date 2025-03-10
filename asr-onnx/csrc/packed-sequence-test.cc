@@ -1,6 +1,6 @@
 // asr-onnx/csrc/packed-sequence-test.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/packed-sequence.h"
 

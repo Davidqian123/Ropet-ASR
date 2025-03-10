@@ -1,6 +1,6 @@
 // asr-onnx/csrc/slice.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/slice.h"
 

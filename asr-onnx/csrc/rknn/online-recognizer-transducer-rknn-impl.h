@@ -1,6 +1,6 @@
 // asr-onnx/csrc/rknn/online-recognizer-transducer-rknn-impl.h
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_RKNN_ONLINE_RECOGNIZER_TRANSDUCER_RKNN_IMPL_H_
 #define SHERPA_ONNX_CSRC_RKNN_ONLINE_RECOGNIZER_TRANSDUCER_RKNN_IMPL_H_

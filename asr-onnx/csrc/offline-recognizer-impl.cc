@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-recognizer-impl.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-recognizer-impl.h"
 

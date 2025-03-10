@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-paraformer-model.cc
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/offline-paraformer-model.h"
 

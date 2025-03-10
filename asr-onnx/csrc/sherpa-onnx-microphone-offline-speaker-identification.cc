@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-microphone-offline-speaker-identification.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include <signal.h>
 #include <stdio.h>

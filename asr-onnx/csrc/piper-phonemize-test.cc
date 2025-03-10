@@ -1,6 +1,6 @@
 // asr-onnx/csrc/piper-phonemize-test.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "espeak-ng/speak_lib.h"
 #include "gtest/gtest.h"

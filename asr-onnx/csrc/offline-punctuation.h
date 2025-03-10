@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-punctuation.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_PUNCTUATION_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_PUNCTUATION_H_
 

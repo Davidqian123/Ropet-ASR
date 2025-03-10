@@ -1,6 +1,6 @@
 // asr-onnx/csrc/spoken-language-identification.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/spoken-language-identification.h"
 

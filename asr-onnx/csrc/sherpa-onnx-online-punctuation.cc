@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-onnx-online-punctuation.cc
 //
-// Copyright (c) 2024 Jian You (jianyou@cisco.com, Cisco Systems)
+ 
 
 #include <stdio.h>
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/utfcpp-test.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include <cctype>
 #include <string>

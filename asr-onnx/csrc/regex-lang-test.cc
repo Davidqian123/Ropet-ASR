@@ -1,6 +1,6 @@
 // asr-onnx/csrc/regex-lang-test.cc
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 
 #include <regex>  // NOLINT
 

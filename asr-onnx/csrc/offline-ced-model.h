@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-ced-model.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_CED_MODEL_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_CED_MODEL_H_
 #include <memory>

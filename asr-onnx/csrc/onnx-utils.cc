@@ -1,7 +1,7 @@
 // asr-onnx/csrc/onnx-utils.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
-// Copyright (c)  2023  Pingfeng Luo
+ 
+ 
 #include "asr-onnx/csrc/onnx-utils.h"
 
 #include <algorithm>

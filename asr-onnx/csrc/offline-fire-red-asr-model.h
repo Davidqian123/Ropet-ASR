@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-fire-red-asr-model.h
 //
-// Copyright (c)  2025  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_FIRE_RED_ASR_MODEL_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_FIRE_RED_ASR_MODEL_H_
 

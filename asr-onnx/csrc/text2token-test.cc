@@ -1,6 +1,6 @@
 // asr-onnx/csrc/text2token-test.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include <fstream>
 #include <sstream>

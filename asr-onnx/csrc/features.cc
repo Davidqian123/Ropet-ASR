@@ -1,6 +1,6 @@
 // asr-onnx/csrc/features.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/features.h"
 

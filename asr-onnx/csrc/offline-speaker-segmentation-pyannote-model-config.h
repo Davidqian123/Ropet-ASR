@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-speaker-segmentation-pyannote-model-config.h
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_SPEAKER_SEGMENTATION_PYANNOTE_MODEL_CONFIG_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_SPEAKER_SEGMENTATION_PYANNOTE_MODEL_CONFIG_H_

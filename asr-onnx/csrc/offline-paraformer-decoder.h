@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-paraformer-decoder.h
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_OFFLINE_PARAFORMER_DECODER_H_
 #define SHERPA_ONNX_CSRC_OFFLINE_PARAFORMER_DECODER_H_

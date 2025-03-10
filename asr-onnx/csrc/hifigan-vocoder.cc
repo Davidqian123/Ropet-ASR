@@ -1,6 +1,6 @@
 // asr-onnx/csrc/hifigan-vocoder.cc
 //
-// Copyright (c)  2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/hifigan-vocoder.h"
 

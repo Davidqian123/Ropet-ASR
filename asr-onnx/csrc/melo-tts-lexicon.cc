@@ -1,6 +1,6 @@
 // asr-onnx/csrc/melo-tts-lexicon.cc
 //
-// Copyright (c)  2022-2024  Xiaomi Corporation
+ 
 
 #include "asr-onnx/csrc/melo-tts-lexicon.h"
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/sherpa-alsa.h
 //
-// Copyright (c)  2022-2023  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_ALSA_H_
 #define SHERPA_ONNX_CSRC_ALSA_H_

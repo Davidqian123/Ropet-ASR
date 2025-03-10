@@ -1,6 +1,6 @@
 // asr-onnx/csrc/offline-transducer-model-config.cc
 //
-// Copyright (c)  2023  Xiaomi Corporation
+ 
 #include "asr-onnx/csrc/offline-transducer-model-config.h"
 
 #include <sstream>

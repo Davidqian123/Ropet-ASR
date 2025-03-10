@@ -1,6 +1,6 @@
 // asr-onnx/csrc/utils.h
 //
-// Copyright      2023  Xiaomi Corporation
+ 
 #ifndef SHERPA_ONNX_CSRC_UTILS_H_
 #define SHERPA_ONNX_CSRC_UTILS_H_
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/utils.cc
 //
-// Copyright      2025  Xiaomi Corporation
+  
 
 #include "asr-onnx/csrc/rknn/utils.h"
 

@@ -1,6 +1,6 @@
 // asr-onnx/csrc/melo-tts-lexicon.h
 //
-// Copyright (c)  2022-2024  Xiaomi Corporation
+ 
 
 #ifndef SHERPA_ONNX_CSRC_MELO_TTS_LEXICON_H_
 #define SHERPA_ONNX_CSRC_MELO_TTS_LEXICON_H_
